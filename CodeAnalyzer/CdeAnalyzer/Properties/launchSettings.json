@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Analyzer": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\AnaTester\\AnaTester.csproj"
+    }
+  }
+}
